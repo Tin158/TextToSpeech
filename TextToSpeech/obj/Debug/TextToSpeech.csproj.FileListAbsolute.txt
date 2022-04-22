@@ -1,0 +1,13 @@
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojAssemblyReference.cache
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Form1.resources
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.cache
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.CopyComplete
